@@ -1,0 +1,2 @@
+rootProject.name = "Custom View With Canvas"
+include ':app'
